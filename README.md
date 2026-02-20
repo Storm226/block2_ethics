@@ -1,6 +1,6 @@
 
 
-What does the program do: 
+## What does the program do: 
 when executed, the program takes a filepath as an argument and outputs the sha256 hash of a given file. This is useful so that if you suspect that there may be malicious activity or malware in a given file, you can output its hash and check it against popular databases such as VirusTotal. 
 
 ## How to run and necessary dependancies:
