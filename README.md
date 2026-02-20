@@ -5,7 +5,7 @@ when executed, the program takes a filepath as an argument and outputs the sha25
 
 ## How to run and necessary dependancies:
 1) you just need python installed, no other dependancies. 
-2) python3 block2.py
+2) *python3 block2.py*
 3) it will prompt you for a filepath, you can offer an absolute path or relative to current directory, and it will
 output the sha256 digest of that file. 
 
