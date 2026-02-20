@@ -10,9 +10,8 @@ when executed, the program takes a filepath as an argument and outputs the sha25
 output the sha256 digest of that file. 
 
 ## Limitations:
-+ This tool is for educational use only. 
-- this tool doesn't normalize filepaths so you must be considerate of how you articulate your filepath. 
+This tool is for educational use only. 
+this tool doesn't normalize filepaths so you must be considerate of how you articulate your filepath. 
 
 ## Ethical considerations and responsible use: 
 Someone could absolutely modify this in some sense for unethical purposes. for example, someone could take the output and transform the sha digest of a given file, and in doing so, conceal any malicious properties the file might have. In that sense, it could give users a false sense of security. That is why it is important that we as programmers endeavor to build trust and positive relationships with our users, so that they can know we are doing what we say we are doing (and not outputting the wrong hash) and we can trust other programmers when we inevitably rely on other programmers for dependancies. 
-
